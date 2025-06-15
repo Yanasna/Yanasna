@@ -1,5 +1,5 @@
 ## 안녕하세요!👋😎
-<ul style="list-style-type : square">
+<ul style="list-style-type:square">
   <li>항상 끝없는 도전으로 나아가는 개발자입니다!</li>
 </ul>
 <p>
