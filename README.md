@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black" />
 </p>
-<br />
 <p>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" />
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanasna)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
