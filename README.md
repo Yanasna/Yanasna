@@ -1,6 +1,6 @@
 ## 안녕하세요!👋😎
 <ul>
-  <li>항상 끝없는 도전으로 나아가는 개발자입니다!</li>
+  <li>항상 끝없는 도전으로 발전하고 있는 개발자입니다!</li>
 </ul>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
